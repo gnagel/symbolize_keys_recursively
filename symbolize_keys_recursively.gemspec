@@ -1,6 +1,10 @@
+# -*- encoding: utf-8 -*-
+$:.push File.expand_path("../lib", __FILE__)
+require "symbolize_keys_recursively"
+
 Gem::Specification.new do |gem|
   gem.name          = "symbolize_keys_recursively"
-  gem.version       = '1.0'
+  gem.version       = '1.1'
   gem.authors       = ["Glenn Nagel"]
   gem.email         = ["glenn@mercury-wireless.com"]
   gem.homepage      = "https://github.com/gnagel/symbolize_keys_recursively"
