@@ -1,0 +1,2 @@
+require_relative 'symbolize_keys_recursively/array'
+require_relative 'symbolize_keys_recursively/hash'
